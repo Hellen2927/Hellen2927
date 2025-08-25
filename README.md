@@ -3,12 +3,9 @@
 </div>
 <div>
 <img align="center" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-</div>
-
-<br>
-<div align= "center">
+  <div align= "right">
   <p>Visitors:</p>
- <p align="center">
+ <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EberthGarciaValdez01001.EberthGarciaValdez01001" alt="Visitas" style="margin-right:10px;"/>
   <br>
   <img src="https://img.shields.io/badge/Gracias%20por%20visitarme-blueviolet?style=for-the-badge&logo=github" alt="Gracias por visitarme"/>
@@ -17,6 +14,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 </div>
+
+<br>
    
 ## About me:
 
