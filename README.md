@@ -2,7 +2,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=&color=red&width=200&lines=Hi,+i'm+Hellen" alt="Typing SVG" /></a><img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"width="100"> </h1>
 </div>
 <div>
-<img https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif%22%20/" width="800">
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 </div>
 
 <br>
