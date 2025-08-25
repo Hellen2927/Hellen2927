@@ -2,8 +2,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=&color=red&width=200&lines=Hi,+i'm+Hellen" alt="Typing SVG" /></a><img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"width="100"> </h1>
 </div>
 <div>
-<img align="center" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-  <div align= "center">
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
   <p>Visitors:</p>
  <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EberthGarciaValdez01001.EberthGarciaValdez01001" alt="Visitas" style="margin-right:10px;"/>
