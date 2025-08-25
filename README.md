@@ -3,6 +3,7 @@
 </div>
 <div>
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+  <p align="center">
   <p>Visitors:</p>
  <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EberthGarciaValdez01001.EberthGarciaValdez01001" alt="Visitas" style="margin-right:10px;"/>
