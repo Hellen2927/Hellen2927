@@ -14,9 +14,6 @@
 ## About me:
 
 - 👨🏻‍💻 Student in systems engineering 
-- 🧑🏻‍🔧💡 Electrician
-- ☕ Barista brewer
-
 <br>
 
 ## Programming languages
@@ -24,9 +21,6 @@
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>        
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img width="45px"src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor" />
-<img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" />
-
 </p>
 
 ## Frontend development
@@ -46,31 +40,19 @@
 ## Runtime Environment
 <p>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />  
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-<img width="40px" src="https://i.postimg.cc/m2b7gPNL/5307940-middle-removebg-preview.png"/>
-</p>
-
-## Database
-<p>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </p>
  
 ## Operating systems
 <p>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-<img width="40px" src="https://i.postimg.cc/mDBgyHrh/linux.png" />
 </p>
   
 ## IDEs & Tools
 <p>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-<img width="40px" src="https://i.postimg.cc/qB9M1Sq9/BEVBJK1r-400x400-removebg-preview.png" />
-<img width="40px" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" />
 <img width="35px" src="https://i.postimg.cc/TwVD5MJB/Net-Beans-Logo-wine.png" />
 <img width="40px" src="https://img.icons8.com/?size=100&id=12599&format=png&color=FFFFFF" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img width="40px" src="https://avatars.githubusercontent.com/u/164544218?s=200&v=4" />  
 </p>
